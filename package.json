@@ -1,0 +1,26 @@
+{
+  "name": "jane-web-viewer",
+  "version": "1.0.0",
+  "description": "a simple web wrapper for jane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDITEX07/jane-web-viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EDITEX07/jane-web-viewer/issues"
+  },
+  "homepage": "https://github.com/EDITEX07/jane-web-viewer#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3"
+  }
+}

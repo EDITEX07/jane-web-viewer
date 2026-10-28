@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JANE Web Viewer </string>
+    <string name="title_activity_main">JANE Web Viewer </string>
+    <string name="package_name">com.jane.webviewer</string>
+    <string name="custom_url_scheme">com.jane.webviewer</string>
+</resources>
